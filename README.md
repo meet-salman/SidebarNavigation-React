@@ -2,7 +2,7 @@
 
 # Responsive Sidebar Navigation
 
-Using the latest techniques with React DOM, Implemented <NavLink /> to highlight active links, ensuring smooth navigation for users. Plus, added an error page for any routes that aren't defined.
+Using the latest techniques with React DOM, Implemented NavLink to highlight active links, ensuring smooth navigation for users. Plus, added an error page for any routes that aren't defined.
 
 
 <!-- GETTING STARTED -->
