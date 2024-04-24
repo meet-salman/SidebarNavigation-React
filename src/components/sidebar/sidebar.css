@@ -1,0 +1,20 @@
+.sidebar {
+    @apply h-[100vh] w-[100px] sm:w-[130px] lg:w-[300px] fixed p-5 lg:p-10 border-r-2 border-b-gray-700;
+    transition: all 0.5s ease; 
+}
+
+.logo_box {
+    @apply mb-12
+}
+
+.link {
+    @apply flex items-center w-fit lg:w-full gap-2 py-3 px-5 list-none rounded-lg bg-[#ebf1ff]
+}
+
+.sidebar li span {
+    @apply hidden lg:flex
+}
+
+.image_box h6, .image_box p {
+    @apply hidden lg:block
+}
